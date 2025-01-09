@@ -1,7 +1,7 @@
 /*
 	Programador....: (c) 2025 Pedro Monteiro
 	Data...........: 07/01/2025
-  Observações....: Simulação com led alusias ao carro "KITT" da série "Knight Rider"
+  	Observações....: Simulação com led alusivas ao carro "KITT" da série "Knight Rider"
 */
 const byte LED_PIN[] = {4, 5, 6, 7, 8, 9, 10, 11, 12, 13};
 const byte DELAY = 250;
